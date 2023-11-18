@@ -1,0 +1,6 @@
+[2023-11-18 19:39:12,948: INFO: utils: NumExpr defaulting to 4 threads.]
+[2023-11-18 19:39:52,244: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 19:39:52,270: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-18 19:39:52,286: INFO: common: Create direcory at: artifacts]
+[2023-11-18 19:39:52,296: INFO: common: Create direcory at: artifacts\prepare_base_model]
+[2023-11-18 19:40:07,580: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]

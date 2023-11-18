@@ -78,3 +78,8 @@ def encodeImageIntoBase64(croppedImagePath):
         base64.b64encode(f.read())
 
 
+@ensure_annotations
+def get_size(file_path: Path):
+    size_in_kb = round(os.path.getsize(file_path)/1024)
+    return f'~ {size_in_kb}KB'
+
