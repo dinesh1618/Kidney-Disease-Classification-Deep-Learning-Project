@@ -55,3 +55,187 @@ x==========x]
 [2023-11-18 19:50:41,367: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
 
 x==========x]
+[2023-11-18 20:13:23,940: INFO: utils: NumExpr defaulting to 4 threads.]
+[2023-11-18 20:13:55,585: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 20:13:55,592: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-18 20:13:55,595: INFO: common: Create direcory at: artifacts]
+[2023-11-18 20:14:19,938: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 20:14:19,942: INFO: common: Create direcory at: artifacts]
+[2023-11-18 20:14:19,946: INFO: common: Create direcory at: artifacts\data_ingestion]
+[2023-11-18 20:14:19,949: INFO: 865979487: Downloading data from https://drive.google.com/file/d/15vwGFW48xcg07mEzwKGX0Wex4hgKzkrD/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-18 20:14:34,281: INFO: 865979487: Downloaded data from https://drive.google.com/file/d/15vwGFW48xcg07mEzwKGX0Wex4hgKzkrD/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-18 20:14:36,665: INFO: 865979487: File extracted successfully]
+[2023-11-18 20:14:58,912: INFO: utils: NumExpr defaulting to 4 threads.]
+[2023-11-18 20:15:00,556: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 20:15:00,564: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-18 20:15:00,568: INFO: common: Create direcory at: artifacts]
+[2023-11-18 20:15:00,570: INFO: common: Create direcory at: artifacts\prepare_base_model]
+[2023-11-18 20:15:02,643: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-18 20:15:27,051: INFO: utils: NumExpr defaulting to 4 threads.]
+[2023-11-18 20:15:28,573: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 20:15:28,582: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-18 20:15:28,587: INFO: common: Create direcory at: artifacts]
+[2023-11-18 20:16:03,078: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 20:16:03,084: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-18 20:16:03,086: INFO: common: Create direcory at: artifacts]
+[2023-11-18 20:16:03,089: INFO: common: Create direcory at: artifacts\training]
+[2023-11-18 20:17:18,510: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 20:17:18,515: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-18 20:17:18,517: INFO: common: Create direcory at: artifacts]
+[2023-11-18 20:17:18,520: INFO: common: Create direcory at: artifacts\training]
+[2023-11-18 20:17:39,200: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 20:17:39,207: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-18 20:17:39,210: INFO: common: Create direcory at: artifacts]
+[2023-11-18 20:17:39,212: INFO: common: Create direcory at: artifacts\training]
+[2023-11-18 21:36:56,833: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 21:36:56,959: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-18 21:36:56,984: INFO: common: Create direcory at: artifacts]
+[2023-11-18 21:41:47,818: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 21:41:47,825: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-18 21:41:47,828: INFO: common: Create direcory at: artifacts]
+[2023-11-18 21:42:46,028: INFO: common: json file saved at: scores.json]
+[2023-11-18 21:43:05,608: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2023-11-18 21:43:10,976: INFO: builder_impl: Assets written to: C:\Users\dines\AppData\Local\Temp\tmpa5176zxs\model\data\model\assets]
+[2023-11-18 21:52:33,895: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 21:52:33,908: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-18 21:52:33,908: INFO: common: Create direcory at: artifacts]
+[2023-11-18 21:53:31,297: INFO: common: json file saved at: scores.json]
+[2023-11-18 21:53:38,540: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2023-11-18 21:53:40,829: INFO: builder_impl: Assets written to: C:\Users\dines\AppData\Local\Temp\tmp6wi3m2lx\model\data\model\assets]
+[2023-11-18 21:59:54,647: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 21:59:54,664: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-18 21:59:54,669: INFO: common: Create direcory at: artifacts]
+[2023-11-18 22:02:12,869: INFO: common: json file saved at: scores.json]
+[2023-11-18 22:02:28,691: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2023-11-18 22:02:30,690: INFO: builder_impl: Assets written to: C:\Users\dines\AppData\Local\Temp\tmppjb1e55r\model\data\model\assets]
+[2023-11-18 22:16:56,670: INFO: utils: NumExpr defaulting to 4 threads.]
+[2023-11-18 22:17:10,720: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-18 22:17:10,735: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 22:17:10,738: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-18 22:17:10,739: INFO: common: Create direcory at: artifacts]
+[2023-11-18 22:17:10,741: INFO: common: Create direcory at: artifacts\data_ingestion]
+[2023-11-18 22:17:10,748: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/15vwGFW48xcg07mEzwKGX0Wex4hgKzkrD/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-18 22:17:25,520: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/15vwGFW48xcg07mEzwKGX0Wex4hgKzkrD/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-18 22:17:30,818: INFO: data_ingestion: File extracted successfully]
+[2023-11-18 22:17:30,909: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-11-18 22:17:30,914: INFO: main: *******************]
+[2023-11-18 22:17:30,921: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2023-11-18 22:17:30,942: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 22:17:30,957: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-18 22:17:30,979: INFO: common: Create direcory at: artifacts]
+[2023-11-18 22:17:31,027: INFO: common: Create direcory at: artifacts\prepare_base_model]
+[2023-11-18 22:17:50,873: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-18 22:17:56,150: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2023-11-18 22:17:56,150: INFO: main: *******************]
+[2023-11-18 22:17:56,152: INFO: main: >>>>>> stage Training started <<<<<<]
+[2023-11-18 22:17:56,157: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 22:17:56,159: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-18 22:17:56,160: INFO: common: Create direcory at: artifacts]
+[2023-11-18 22:17:56,162: INFO: common: Create direcory at: artifacts\training]
+[2023-11-18 22:20:36,813: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2023-11-18 22:20:36,814: INFO: main: *******************]
+[2023-11-18 22:20:36,815: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2023-11-18 22:20:36,822: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 22:20:36,825: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-18 22:20:36,826: INFO: common: Create direcory at: artifacts]
+[2023-11-18 22:20:37,609: ERROR: main: name 'model' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\dines\Music\Work\Kidney-Disease-Classification-Deep-Learning-Project\main.py", line 53, in <module>
+    model_evalution.main()
+  File "c:\users\dines\music\work\kidney-disease-classification-deep-learning-project\src\cnnClassifier\pipeline\stage_04_model_evalution.py", line 18, in main
+    evaluation.evaluation()
+  File "c:\users\dines\music\work\kidney-disease-classification-deep-learning-project\src\cnnClassifier\components\model_evalution.py", line 48, in evaluation
+    self.score = model.evaluate(self.valid_generator)
+NameError: name 'model' is not defined
+[2023-11-18 22:30:48,585: INFO: utils: NumExpr defaulting to 4 threads.]
+[2023-11-18 22:30:52,727: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-18 22:30:52,742: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 22:30:52,742: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-18 22:30:52,742: INFO: common: Create direcory at: artifacts]
+[2023-11-18 22:30:52,742: INFO: common: Create direcory at: artifacts\data_ingestion]
+[2023-11-18 22:30:52,742: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/15vwGFW48xcg07mEzwKGX0Wex4hgKzkrD/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-18 22:31:07,214: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/15vwGFW48xcg07mEzwKGX0Wex4hgKzkrD/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-18 22:31:08,636: INFO: data_ingestion: File extracted successfully]
+[2023-11-18 22:31:08,636: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-11-18 22:31:08,636: INFO: main: *******************]
+[2023-11-18 22:31:08,636: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2023-11-18 22:31:08,636: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 22:31:08,636: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-18 22:31:08,636: INFO: common: Create direcory at: artifacts]
+[2023-11-18 22:31:08,636: INFO: common: Create direcory at: artifacts\prepare_base_model]
+[2023-11-18 22:31:09,355: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-18 22:31:12,964: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2023-11-18 22:31:12,964: INFO: main: *******************]
+[2023-11-18 22:31:12,964: INFO: main: >>>>>> stage Training started <<<<<<]
+[2023-11-18 22:31:12,964: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 22:31:12,980: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-18 22:31:12,980: INFO: common: Create direcory at: artifacts]
+[2023-11-18 22:31:12,980: INFO: common: Create direcory at: artifacts\training]
+[2023-11-18 22:33:43,075: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2023-11-18 22:33:43,075: INFO: main: *******************]
+[2023-11-18 22:33:43,075: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2023-11-18 22:33:43,075: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 22:33:43,091: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-18 22:33:43,091: INFO: common: Create direcory at: artifacts]
+[2023-11-18 22:33:43,700: ERROR: main: name 'model' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\dines\Music\Work\Kidney-Disease-Classification-Deep-Learning-Project\main.py", line 53, in <module>
+    model_evalution.main()
+  File "c:\users\dines\music\work\kidney-disease-classification-deep-learning-project\src\cnnClassifier\pipeline\stage_04_model_evalution.py", line 18, in main
+    evaluation.evaluation()
+  File "c:\users\dines\music\work\kidney-disease-classification-deep-learning-project\src\cnnClassifier\components\model_evalution.py", line 48, in evaluation
+    self.score = model.evaluate(self.valid_generator)
+NameError: name 'model' is not defined
+[2023-11-18 22:36:28,436: INFO: utils: NumExpr defaulting to 4 threads.]
+[2023-11-18 22:36:33,311: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-18 22:36:33,311: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 22:36:33,311: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-18 22:36:33,311: INFO: common: Create direcory at: artifacts]
+[2023-11-18 22:36:33,311: INFO: common: Create direcory at: artifacts\data_ingestion]
+[2023-11-18 22:36:33,311: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/15vwGFW48xcg07mEzwKGX0Wex4hgKzkrD/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-18 22:36:48,437: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/15vwGFW48xcg07mEzwKGX0Wex4hgKzkrD/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-18 22:36:49,812: INFO: data_ingestion: File extracted successfully]
+[2023-11-18 22:36:49,828: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-11-18 22:36:49,828: INFO: main: *******************]
+[2023-11-18 22:36:49,828: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2023-11-18 22:36:49,828: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 22:36:49,828: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-18 22:36:49,828: INFO: common: Create direcory at: artifacts]
+[2023-11-18 22:36:49,828: INFO: common: Create direcory at: artifacts\prepare_base_model]
+[2023-11-18 22:36:50,765: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-18 22:36:55,921: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2023-11-18 22:36:55,921: INFO: main: *******************]
+[2023-11-18 22:36:55,921: INFO: main: >>>>>> stage Training started <<<<<<]
+[2023-11-18 22:36:55,921: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 22:36:55,921: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-18 22:36:55,921: INFO: common: Create direcory at: artifacts]
+[2023-11-18 22:36:55,921: INFO: common: Create direcory at: artifacts\training]
+[2023-11-18 22:39:26,281: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2023-11-18 22:39:26,281: INFO: main: *******************]
+[2023-11-18 22:39:26,281: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2023-11-18 22:39:26,296: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-18 22:39:26,312: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-18 22:39:26,312: INFO: common: Create direcory at: artifacts]
+[2023-11-18 22:40:11,328: INFO: common: json file saved at: scores.json]
+[2023-11-18 22:40:11,328: INFO: common: json file saved at: scores.json]
+[2023-11-18 22:40:11,328: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
