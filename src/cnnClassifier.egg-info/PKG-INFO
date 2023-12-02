@@ -1,3 +1,95 @@
 Metadata-Version: 2.1
 Name: cnnClassifier
 Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/dinesh1618/Kidney-Disease-Classification-Deep-Learning-Project
+Author: dinesh1618
+Author-email: dineshyakkanti@gmail.com
+Project-URL: Bug Tracker, https://github.com/dinesh1618/Kidney-Disease-Classification-Deep-Learning-Project/issues
+
+# Kidney-Disease-Classification-MLflow-DVC
+
+
+## Workflows
+
+1. Update config.yaml
+2. Update secrets.yaml [Optional]
+3. Update params.yaml
+4. Update the entity
+5. Update the configuration manager in src config
+6. Update the components
+7. Update the pipeline 
+8. Update the main.py
+9. Update the dvc.yaml
+10. app.py
+
+# How to run?
+### STEPS:
+
+Clone the repository
+
+```bash
+https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project
+```
+### STEP 01- Create a conda environment after opening the repository
+
+```bash
+conda create -n cnncls python=3.8 -y
+```
+
+```bash
+conda activate cnncls
+```
+
+
+### STEP 02- install the requirements
+```bash
+pip install -r requirements.txt
+```
+
+```bash
+# Finally run the following command
+python app.py
+```
+
+Now,
+```bash
+open up you local host and port
+```
+
+
+
+
+
+
+## MLflow
+
+- [Documentation](https://mlflow.org/docs/latest/index.html)
+
+- [MLflow tutorial](https://youtu.be/qdcHHrsXA48?si=bD5vDS60akNphkem)
+
+##### cmd
+- mlflow ui
+
+### dagshub
+[dagshub](https://dagshub.com/)
+
+MLFLOW_TRACKING_URI=https://dagshub.com/dinesh1618/Kidney-Disease-Classification-Deep-Learning-Project.mlflow \
+MLFLOW_TRACKING_USERNAME=dinesh1618 \
+MLFLOW_TRACKING_PASSWORD=a37667ffeb44d2318e564589a37951fbed58f1c4 \
+python script.py
+
+Run this to export as env variables:
+
+```bash
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/dinesh1618/Kidney-Disease-Classification-Deep-Learning-Project.mlflow
+
+export MLFLOW_TRACKING_USERNAME=dinesh1618 
+
+export MLFLOW_TRACKING_PASSWORD=a37667ffeb44d2318e564589a37951fbed58f1c4
+
+```
+
+
+

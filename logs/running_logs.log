@@ -239,3 +239,229 @@ x==========x]
 [2023-11-18 22:40:11,328: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
 
 x==========x]
+[2023-11-25 19:31:40,269: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\losses.py:2664: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-25 19:31:40,871: INFO: utils: NumExpr defaulting to 4 threads.]
+[2023-11-25 19:32:41,456: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\losses.py:2664: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-25 19:32:41,925: INFO: utils: NumExpr defaulting to 4 threads.]
+[2023-11-25 19:32:43,925: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-25 19:32:43,941: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-25 19:32:43,941: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-25 19:32:43,941: INFO: common: Create direcory at: artifacts]
+[2023-11-25 19:32:43,941: INFO: common: Create direcory at: artifacts\data_ingestion]
+[2023-11-25 19:32:43,941: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/15vwGFW48xcg07mEzwKGX0Wex4hgKzkrD/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-25 19:33:00,483: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/15vwGFW48xcg07mEzwKGX0Wex4hgKzkrD/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-25 19:33:02,436: INFO: data_ingestion: File extracted successfully]
+[2023-11-25 19:33:02,436: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-11-25 19:34:40,333: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\losses.py:2664: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-25 19:34:40,770: INFO: utils: NumExpr defaulting to 4 threads.]
+[2023-11-25 19:34:41,801: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-25 19:34:41,801: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-25 19:34:41,817: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-25 19:34:41,817: INFO: common: Create direcory at: artifacts]
+[2023-11-25 19:34:41,817: INFO: common: Create direcory at: artifacts\data_ingestion]
+[2023-11-25 19:34:41,817: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/15vwGFW48xcg07mEzwKGX0Wex4hgKzkrD/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-25 19:34:57,230: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/15vwGFW48xcg07mEzwKGX0Wex4hgKzkrD/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-25 19:34:59,135: INFO: data_ingestion: File extracted successfully]
+[2023-11-25 19:34:59,135: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-11-25 19:50:21,989: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\losses.py:2664: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-25 19:50:22,551: INFO: utils: NumExpr defaulting to 4 threads.]
+[2023-11-25 19:51:17,691: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\losses.py:2664: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-25 19:51:18,144: INFO: utils: NumExpr defaulting to 4 threads.]
+[2023-11-25 19:51:19,233: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-25 19:51:19,233: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-25 19:51:19,233: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-25 19:51:19,233: INFO: common: Create direcory at: artifacts]
+[2023-11-25 19:51:19,233: INFO: common: Create direcory at: artifacts\data_ingestion]
+[2023-11-25 19:51:19,233: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/15vwGFW48xcg07mEzwKGX0Wex4hgKzkrD/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-25 19:51:34,609: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/15vwGFW48xcg07mEzwKGX0Wex4hgKzkrD/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-25 19:51:36,556: INFO: data_ingestion: File extracted successfully]
+[2023-11-25 19:51:36,556: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-11-25 19:53:59,659: WARNING: module_wrapper: From c:\Users\dines\anaconda3\Lib\site-packages\keras\losses.py:2664: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-25 19:54:00,260: INFO: utils: NumExpr defaulting to 4 threads.]
+[2023-11-25 19:54:01,892: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-25 19:54:01,903: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-25 19:54:01,907: INFO: common: Create direcory at: artifacts]
+[2023-11-25 19:54:01,911: INFO: common: Create direcory at: artifacts\prepare_base_model]
+[2023-11-25 19:54:02,711: WARNING: module_wrapper: From c:\Users\dines\anaconda3\Lib\site-packages\keras\backend.py:1400: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2023-11-25 19:54:03,102: WARNING: module_wrapper: From c:\Users\dines\anaconda3\Lib\site-packages\keras\layers\pooling\max_pooling2d.py:160: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2023-11-25 19:54:05,154: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-25 19:55:18,149: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\losses.py:2664: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-25 19:55:18,588: INFO: utils: NumExpr defaulting to 4 threads.]
+[2023-11-25 19:55:19,917: INFO: stage_02_prepare_base_model: *******************]
+[2023-11-25 19:55:19,917: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model started <<<<<<]
+[2023-11-25 19:55:19,917: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-25 19:55:19,917: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-25 19:55:19,917: INFO: common: Create direcory at: artifacts]
+[2023-11-25 19:55:19,917: INFO: common: Create direcory at: artifacts\prepare_base_model]
+[2023-11-25 19:55:20,307: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\backend.py:1400: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2023-11-25 19:55:20,401: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\layers\pooling\max_pooling2d.py:160: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2023-11-25 19:55:21,151: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-25 19:55:21,526: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2023-11-25 19:57:33,609: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\losses.py:2664: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-25 19:57:34,093: INFO: utils: NumExpr defaulting to 4 threads.]
+[2023-11-25 19:57:35,390: INFO: stage_02_prepare_base_model: *******************]
+[2023-11-25 19:57:35,390: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model started <<<<<<]
+[2023-11-25 19:57:35,390: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-25 19:57:35,390: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-25 19:57:35,390: INFO: common: Create direcory at: artifacts]
+[2023-11-25 19:57:35,390: INFO: common: Create direcory at: artifacts\prepare_base_model]
+[2023-11-25 19:57:35,734: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\backend.py:1400: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2023-11-25 19:57:35,843: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\layers\pooling\max_pooling2d.py:160: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2023-11-25 19:57:36,578: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-25 19:57:37,000: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2023-11-25 19:58:20,443: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\losses.py:2664: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-25 19:58:20,896: INFO: utils: NumExpr defaulting to 4 threads.]
+[2023-11-25 19:58:22,224: INFO: stage_02_prepare_base_model: *******************]
+[2023-11-25 19:58:22,224: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model started <<<<<<]
+[2023-11-25 19:58:22,240: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-25 19:58:22,240: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-25 19:58:22,240: INFO: common: Create direcory at: artifacts]
+[2023-11-25 19:58:22,240: INFO: common: Create direcory at: artifacts\prepare_base_model]
+[2023-11-25 19:58:22,599: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\backend.py:1400: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2023-11-25 19:58:22,693: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\layers\pooling\max_pooling2d.py:160: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2023-11-25 19:58:23,396: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-25 19:58:23,771: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2023-11-25 20:00:31,759: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\losses.py:2664: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-25 20:00:32,243: INFO: utils: NumExpr defaulting to 4 threads.]
+[2023-11-25 20:00:33,556: INFO: stage_02_prepare_base_model: *******************]
+[2023-11-25 20:00:33,556: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model started <<<<<<]
+[2023-11-25 20:00:33,572: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-25 20:00:33,572: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-25 20:00:33,572: INFO: common: Create direcory at: artifacts]
+[2023-11-25 20:00:33,572: INFO: common: Create direcory at: artifacts\prepare_base_model]
+[2023-11-25 20:00:33,962: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\backend.py:1400: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2023-11-25 20:00:34,087: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\layers\pooling\max_pooling2d.py:160: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2023-11-25 20:00:34,759: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-25 20:00:35,181: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2023-11-25 20:23:30,405: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\losses.py:2664: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-25 20:23:30,921: INFO: utils: NumExpr defaulting to 4 threads.]
+[2023-11-25 20:23:32,311: INFO: stage_02_prepare_base_model: *******************]
+[2023-11-25 20:23:32,311: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model started <<<<<<]
+[2023-11-25 20:23:32,311: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-25 20:23:32,311: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-25 20:23:32,311: INFO: common: Create direcory at: artifacts]
+[2023-11-25 20:23:32,311: INFO: common: Create direcory at: artifacts\prepare_base_model]
+[2023-11-25 20:23:32,640: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\backend.py:1400: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2023-11-25 20:23:32,780: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\layers\pooling\max_pooling2d.py:160: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2023-11-25 20:23:33,617: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-25 20:23:34,217: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2023-11-25 20:25:26,856: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\losses.py:2664: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-25 20:25:27,309: INFO: utils: NumExpr defaulting to 4 threads.]
+[2023-11-25 20:25:28,562: INFO: stage_02_prepare_base_model: *******************]
+[2023-11-25 20:25:28,562: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model started <<<<<<]
+[2023-11-25 20:25:28,577: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-25 20:25:28,577: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-25 20:25:28,577: INFO: common: Create direcory at: artifacts]
+[2023-11-25 20:25:28,577: INFO: common: Create direcory at: artifacts\prepare_base_model]
+[2023-11-25 20:25:28,921: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\backend.py:1400: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2023-11-25 20:25:29,030: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\layers\pooling\max_pooling2d.py:160: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2023-11-25 20:25:29,756: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-25 20:25:30,223: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2023-11-25 20:31:31,134: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\losses.py:2664: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-25 20:31:31,571: INFO: utils: NumExpr defaulting to 4 threads.]
+[2023-11-25 20:31:32,745: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-25 20:31:32,760: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-25 20:31:32,760: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-25 20:31:32,760: INFO: common: Create direcory at: artifacts]
+[2023-11-25 20:31:32,760: INFO: common: Create direcory at: artifacts\data_ingestion]
+[2023-11-25 20:31:32,760: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/15vwGFW48xcg07mEzwKGX0Wex4hgKzkrD/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-25 20:31:49,309: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/15vwGFW48xcg07mEzwKGX0Wex4hgKzkrD/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-25 20:31:51,260: INFO: data_ingestion: File extracted successfully]
+[2023-11-25 20:31:51,260: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-11-25 20:36:24,292: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\losses.py:2664: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-25 20:36:24,777: INFO: utils: NumExpr defaulting to 4 threads.]
+[2023-11-25 20:36:26,136: INFO: stage_03_model_training: *******************]
+[2023-11-25 20:36:26,136: INFO: stage_03_model_training: >>>>>> stage Training started <<<<<<]
+[2023-11-25 20:36:26,136: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-25 20:36:26,152: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-25 20:36:26,152: INFO: common: Create direcory at: artifacts]
+[2023-11-25 20:36:26,152: INFO: common: Create direcory at: artifacts\training]
+[2023-11-25 20:36:26,785: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\backend.py:1400: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2023-11-25 20:36:26,816: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\layers\pooling\max_pooling2d.py:160: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2023-11-25 20:36:36,827: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\utils\tf_utils.py:490: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
+[2023-11-25 20:39:09,801: INFO: stage_03_model_training: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2023-11-25 21:10:30,065: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\losses.py:2664: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-11-25 21:10:30,565: INFO: utils: NumExpr defaulting to 4 threads.]
+[2023-11-25 21:10:31,943: INFO: stage_02_prepare_base_model: *******************]
+[2023-11-25 21:10:31,943: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model started <<<<<<]
+[2023-11-25 21:10:31,943: INFO: common: Successfully loaded yaml file: config\config.yaml]
+[2023-11-25 21:10:31,943: INFO: common: Successfully loaded yaml file: params.yaml]
+[2023-11-25 21:10:31,943: INFO: common: Create direcory at: artifacts]
+[2023-11-25 21:10:31,959: INFO: common: Create direcory at: artifacts\prepare_base_model]
+[2023-11-25 21:10:32,271: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\backend.py:1400: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2023-11-25 21:10:32,396: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\layers\pooling\max_pooling2d.py:160: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2023-11-25 21:10:33,115: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-11-25 21:10:33,599: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2023-12-02 14:54:20,105: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\losses.py:2664: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2023-12-02 14:54:20,667: INFO: utils: NumExpr defaulting to 4 threads.]
+[2023-12-02 14:54:23,559: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.104:8080]
+[2023-12-02 14:54:23,559: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2023-12-02 14:54:45,362: INFO: _internal: 127.0.0.1 - - [02/Dec/2023 14:54:45] "GET / HTTP/1.1" 200 -]
+[2023-12-02 14:55:06,886: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\backend.py:1400: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2023-12-02 14:55:06,952: WARNING: module_wrapper: From C:\Users\dines\anaconda3\Lib\site-packages\keras\layers\pooling\max_pooling2d.py:160: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2023-12-02 14:55:17,613: INFO: _internal: 127.0.0.1 - - [02/Dec/2023 14:55:17] "POST /predict HTTP/1.1" 200 -]
+[2023-12-02 14:55:30,071: INFO: _internal: 127.0.0.1 - - [02/Dec/2023 14:55:30] "POST /predict HTTP/1.1" 200 -]
